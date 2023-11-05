@@ -1,6 +1,6 @@
 # accounting
 
-A new Flutter application.
+This project has basic accounting facilities where you can add new account, can see your list of transaction list and account list etc.
 
 ## Getting Started
 
